@@ -130,6 +130,7 @@ This dashboard can help HR teams identify attrition patterns and high-risk emplo
 ## 👤 Author
 
 Puja Devare
+live Project Link: 🔗 GitHub: https://github.com/Pujadevare445/HR_Attrition_Analytics_Dashboard
 
 ---
 
