@@ -134,3 +134,17 @@ Puja Devare
 ---
 
 ⭐ If you find this project useful, feel free to explore the dashboard and analysis.
+
+## 📸 Dashboard Preview
+
+### 1. Executive Overview
+
+![Executive Overview](Executive_Overview.png)
+
+### 2. Attrition Drivers
+
+![Attrition Drivers](Attrition_Drivers.png)
+
+### 3. Risk Segmentation & Action List
+
+![Risk Segmentation](Risk_Segmentation.png)
